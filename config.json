@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsealidate",
+        "uuid": 1589908,
+        "checksum": "jhhpvp"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
